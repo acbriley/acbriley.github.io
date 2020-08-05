@@ -1,0 +1,59 @@
+#title{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+#main-content{
+  border-left: 1px solid black;
+  height: 100%;
+}
+
+.personal-info{
+  margin: auto;
+  list-style-type: none;
+}
+
+.section{
+  display: block;
+}
+
+hr{
+  border-top: 1px solid grey;
+}
+body{
+  background-color: #dedcd1;
+  color:#4d4d4d;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: black;
+}
+a{
+  color: #496eab;
+}
+
+.education-section{
+  margin:auto;
+  padding: 0px 40px;
+}
+.skill-section{
+  margin:auto;
+  padding: 0px 40px;
+}
+.section-header{
+  margin:auto;
+  padding: 5px 10px;
+}
+.section-content{
+  margin:auto;
+  padding: 5px 20px;
+}
+.contact-section{
+  margin:auto;
+  padding: 5px 40px;
+}
+.summaray-section{
+  margin:auto;
+  padding: 5px 0px;
+}
